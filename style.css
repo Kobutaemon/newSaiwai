@@ -137,8 +137,7 @@
         top: 10%;
         left: 250px;
         cursor: pointer;
-        transition-property: opacity;
-        transition-duration: 0.2s;
+        transition: opacity 0.2s;
     }
     
     .student-comment {
